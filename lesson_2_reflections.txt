@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+git creates the metadata files for controlling the repository
+It is needed to start committing data
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+it gives you a space where you can check the commit content before sending it to the current repository
+
