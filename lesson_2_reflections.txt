@@ -5,3 +5,6 @@ It is needed to start committing data
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 it gives you a space where you can check the commit content before sending it to the current repository
 
+How can you use the staging area to make sure you have one commit per logical change?
+it help me to compare the changes that will be committed agains the working directory.
+
