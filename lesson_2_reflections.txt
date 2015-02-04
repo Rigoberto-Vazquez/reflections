@@ -8,3 +8,6 @@ it gives you a space where you can check the commit content before sending it to
 How can you use the staging area to make sure you have one commit per logical change?
 it help me to compare the changes that will be committed agains the working directory.
 
+What are some situations when branches would be helpful in keeping your history organized? how would branches help?
+when you want to experiment with changes and working concurrently on the master branch. i would use a branch for each experiment
+
