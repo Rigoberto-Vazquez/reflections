@@ -11,3 +11,8 @@ it help me to compare the changes that will be committed agains the working dire
 What are some situations when branches would be helpful in keeping your history organized? how would branches help?
 when you want to experiment with changes and working concurrently on the master branch. i would use a branch for each experiment
 
+How do the diagrams help you visualize the bransh structure?
+It helps you se where the commits connects to each other
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+it gives you the oportunity of working with an Experimental code without touching the functional code. because it is a parallel work.
