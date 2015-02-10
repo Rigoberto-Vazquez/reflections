@@ -16,3 +16,18 @@ It helps you se where the commits connects to each other
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 it gives you the oportunity of working with an Experimental code without touching the functional code. because it is a parallel work.
+
+What are the pros and cons of git's Automatic merging vs. always doing merges manually?
+automatic:
+*pros
+--saves time and effort
+--it is automatic, and low rate of error
+*cons
+--can cause invisible error in the merge
+
+manual
+*pros
+--you can ensure the way of the merge
+*cons
+--time consuming
+--error prompt
