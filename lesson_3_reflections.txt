@@ -12,3 +12,6 @@ I'll use forks in the same case of clone, but if the code is in github and i wan
 
 What is the benefit of having a copy of the last known state of the remote store locally?
 you can check the state of a branch without internet access
+
+How would you collaborate without usig git or github? What would be easier, and what would be harder?
+I would use svn as a collaboration repo, i think it would be harder to maintain the svn.
